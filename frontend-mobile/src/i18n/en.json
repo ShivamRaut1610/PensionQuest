@@ -1,0 +1,66 @@
+{
+  "onboarding": {
+    "welcome": "Welcome to PensionQuest",
+    "subtitle": "Your journey to a secure retirement starts here",
+    "start_button": "Start My Quest",
+    "age_question": "How old are you?",
+    "income_question": "What is your monthly income?",
+    "nps_question": "Are you currently enrolled in NPS?",
+    "retirement_age_question": "At what age do you want to retire?"
+  },
+  "quest": {
+    "daily_quest": "Daily Quest",
+    "complete": "Complete",
+    "streak": "Day Streak",
+    "xp_earned": "XP Earned",
+    "correct": "Correct!",
+    "incorrect": "Not quite!",
+    "explanation": "Here's why:",
+    "all_done": "All quests completed! New quests coming soon."
+  },
+  "avatar": {
+    "title": "Your Future Self at 60",
+    "thriving": "Your future self is thriving!",
+    "stable": "You're on the right track!",
+    "struggling": "Your future self needs more help.",
+    "critical": "Your future self is in trouble.",
+    "zero": "Your future self hasn't started yet."
+  },
+  "coach": {
+    "greeting": "Hi {{name}}! How can I help you today?",
+    "disclaimer": "This is an estimate, not financial advice.",
+    "placeholder": "Ask me anything about NPS..."
+  },
+  "simulator": {
+    "title": "Retirement Simulator",
+    "monthly_contribution": "Monthly Contribution",
+    "projected_corpus": "Projected Corpus",
+    "monthly_pension": "Monthly Pension",
+    "tax_saved": "Tax Saved",
+    "delay_warning": "Waiting {{years}} years costs you ₹{{amount}}",
+    "start_nps": "Start NPS Now"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "national": "National",
+    "city": "City",
+    "friends": "Friends",
+    "your_rank": "Your Rank"
+  },
+  "badges": {
+    "title": "Your Badges",
+    "unlocked": "Badge Unlocked!",
+    "share": "Share Achievement"
+  },
+  "common": {
+    "namaste": "Namaste",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "settings": "Settings",
+    "language": "Language",
+    "logout": "Logout"
+  }
+}

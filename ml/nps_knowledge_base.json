@@ -1,0 +1,99 @@
+{
+  "nps_overview": {
+    "full_name": "National Pension System",
+    "regulator": "PFRDA (Pension Fund Regulatory and Development Authority)",
+    "launch_year": 2004,
+    "eligibility": "Indian citizens aged 18-70",
+    "min_contribution_tier1": 500,
+    "account_opening_amount": 1000,
+    "maturity_age": 60
+  },
+  "tax_benefits": {
+    "section_80ccd_1": {
+      "description": "Employee contribution deduction",
+      "limit": "10% of salary (included in 80C limit of ₹1.5 lakh)",
+      "for": "Salaried and self-employed"
+    },
+    "section_80ccd_1b": {
+      "description": "Additional exclusive NPS deduction",
+      "limit": 50000,
+      "for": "All NPS subscribers"
+    },
+    "section_80ccd_2": {
+      "description": "Employer contribution deduction",
+      "limit": "14% of salary for central govt, 10% for others",
+      "for": "Salaried employees only"
+    }
+  },
+  "tier_accounts": {
+    "tier_1": {
+      "type": "Pension Account",
+      "lock_in": "Until age 60",
+      "withdrawal": "25% for specific purposes after 3 years",
+      "maturity": "60% lump sum (tax-free) + 40% annuity"
+    },
+    "tier_2": {
+      "type": "Investment Account",
+      "lock_in": "None (except for govt employees)",
+      "withdrawal": "Anytime",
+      "tax_benefit": "Only for central govt employees"
+    }
+  },
+  "fund_managers": [
+    "SBI Pension Funds",
+    "LIC Pension Fund",
+    "UTI Retirement Solutions",
+    "HDFC Pension Management",
+    "ICICI Prudential Pension Funds",
+    "Kotak Mahindra Pension Fund",
+    "Aditya Birla Sun Life Pension Management",
+    "Tata Pension Management",
+    "Max Life Pension Fund Management",
+    "Axis Pension Fund Management"
+  ],
+  "asset_classes": {
+    "E": "Equity (up to 75% for Auto Choice)",
+    "C": "Corporate Bonds",
+    "G": "Government Securities",
+    "A": "Alternative Investment Funds"
+  },
+  "auto_choice_profiles": {
+    "LC75": {
+      "name": "Aggressive",
+      "equity_at_25": "75%",
+      "equity_at_55": "15%"
+    },
+    "LC50": {
+      "name": "Moderate",
+      "equity_at_25": "50%",
+      "equity_at_55": "10%"
+    },
+    "LC25": {
+      "name": "Conservative",
+      "equity_at_25": "25%",
+      "equity_at_55": "5%"
+    }
+  },
+  "faqs": [
+    {
+      "question": "What is the minimum contribution for NPS Tier I?",
+      "answer": "The minimum contribution is ₹500 per year for Tier I. The account opening requires ₹1,000."
+    },
+    {
+      "question": "Can I withdraw money from NPS before 60?",
+      "answer": "Partial withdrawal of up to 25% is allowed after 3 years for specific purposes like education, medical treatment, or home purchase."
+    },
+    {
+      "question": "What happens to NPS at age 60?",
+      "answer": "At 60, you can withdraw up to 60% as a tax-free lump sum. The remaining 40% must be used to buy an annuity for monthly pension."
+    },
+    {
+      "question": "How much tax can I save with NPS?",
+      "answer": "Up to ₹2 lakh: ₹1.5 lakh under 80CCD(1) within 80C limit, plus ₹50,000 exclusively under 80CCD(1B)."
+    },
+    {
+      "question": "What is the expected return from NPS?",
+      "answer": "Historical returns have been 8-12% annually depending on asset allocation. Equity-heavy allocations tend to give higher returns over long periods."
+    }
+  ]
+}
